@@ -89,7 +89,7 @@ print(title)
 ```
 ## 📸 Screenshot
 
-![Medium Title Generator in action](https://drive.google.com/file/d/12SyNkbDtODdwjEjSHqdmz3Ckk6dRlPNm/view?usp=sharing)
+![Medium Title Generator in action](https://drive.google.com/file/d/12SyNkbDtODdwjEjSHqdmz3Ckk6dRlPNm/view?usp=drive_link)
 
 
 ## 🧠 Model Architecture
