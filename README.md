@@ -87,10 +87,6 @@ def generate_title(seed_text, next_words=10):
 title = generate_title("how to", 6)
 print(title)
 ```
-## 📸 Screenshot
-
-![Medium Title Generator in action](https://drive.google.com/file/d/12SyNkbDtODdwjEjSHqdmz3Ckk6dRlPNm/view?usp=drive_link)
-
 
 ## 🧠 Model Architecture
 
