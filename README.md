@@ -210,7 +210,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **GitHub**: [@Moazzam3214](https://github.com/Moazzam3214)
 - **Email**: moazzamaleem786@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](linkedin.com/in/muhammad-moazzam-492b0724b/)
+- **LinkedIn**: [Muhammad Moazzam](linkedin.com/in/muhammad-moazzam-492b0724b/)
 
 ---
 
